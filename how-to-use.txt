@@ -4,6 +4,7 @@ How to use the downloaded files
 2) Run "npm start" to view the project
 3. npm install --save redux
 4. npm install --save react-redux
+npm install --save redux-thunk
 
 
 
